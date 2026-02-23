@@ -2,6 +2,8 @@
 
 The UN General Assembly is often described through familiar lenses — the West vs. the Global South, Cold War allegiances, regional solidarity. This project asks whether the voting data actually supports those groupings, or reveals something different.
 
+**Live site:** [un-hidden-blocs.vercel.app](https://un-hidden-blocs.vercel.app)
+
 ---
 
 ## Question
