@@ -1,0 +1,25 @@
+# Data files (too large for GitHub)
+data/
+*.db
+*.db-wal
+*.db-shm
+*.pkl
+
+# Excluded notebooks
+pipeline/hypothesis_testing.ipynb
+
+# Excluded output
+output/stats_summary.json
+frontend/public/data/stats_summary.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
